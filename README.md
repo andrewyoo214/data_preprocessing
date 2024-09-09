@@ -1,5 +1,7 @@
 # Data Preprocessing
-Data preprocessing methods with Pandas, Numpy, Tensorflow, KoNLPy, Scikit Learn
+Data handling, preprocessing methods with Pandas, Numpy, Tensorflow, KoNLPy, Scikit Learn
+
+Simple EDA and classification methods with Kaggle public datasets.
 
 - - -
 
